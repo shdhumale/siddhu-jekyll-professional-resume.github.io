@@ -1,0 +1,40 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Exfo Connect Platform"
+    description: 
+      - EXFOConnect is a software server platform through which EXFO intends to deliver niche innovative applications to its existing and future customers (typically NOC) and 3rd party application developers. 
+      - These innovative applications are developed keeping ever changing needs of test and service assurance market in mind and is a result of EXFO’s proven expertise in this field.
+      - Technology Used Languages 	-	Java 1.5. Front End Technologies 	-	GWT(Google Web Tool), Ext- GWT Middle Ware Technologies	-	 App Server -	Tomcat Database	-	Oracle 11G Tools	- Edit Plus, Ultra Edit, TOAD, Share Point Portal, Eclipse, STS (Spring Source Tool) OS	-	Windows XP, RHEL 5.3
+    image: ""
+  - title: "NQMS (Network Quality Monitoring System)"
+    description: 
+      - NQMS (Network Quality Monitoring System) is a enterprise product designed for Continues Monitoring of quality of the optic fiber. 
+      - This project is based on Struts, EJB, JMS and Hibernate. Per requirement it gets mandatory to scale this application resultant into development of New Architecture team. 
+      -  A new way of approach was selected in which team has decided to move to new architecture as shown below.Struts, EJB, RabbitMQ as Messaging Bus, Spring 3.0.5 and Hibernate.
+      - Technology Used Languages 	-	Java 1.5. Front End Technologies 	-	GWT(Google Web Tool), Ext- GWT Middle Ware Technologies	-	 App Server -	Tomcat Database	-	Oracle 11G Tools	- Edit Plus, Ultra Edit, TOAD, Share Point Portal, Eclipse, STS (Spring Source Tool) OS	-	Windows XP, RHEL 5.3
+    image: ""  
+  - title: "AMSS- Reliance (Amdocs Self Service - Reliance). India"
+    description: 
+      - The project PACE (Program for Advanced Customer Empowerment) provide the Customer CSS (CSS) portal coupled with the Enterprise Product Catalogue (EPC) the ability to Self Register, Order online, Receive and pay bills,Browse the product catalogue and Trouble ticketing.
+      - This project’s objective is to reduce operating expenditures and to control the total cost of ownership of the selected solution using a product-based solution based on industry-leading architecture and a scalable and production proven product. 
+      - Technology Used - Languages - Java 1.5.Front End Technologies - Struts, EJB, JDBCMiddle Ware Technologies- J2ee-EJBApp Server- WebLogic 9.2Database- Oracle 8iTools- Edit Plus, Ultra Edit, TOAD, Share Point Portal, Eclipse, BEA Web logic Workshop 8.1.OS- Windows NT
+    image: ""  
+  - title: "MSRS – Medical Service Referral System. UK"
+    description: 
+      - A key part of this solution is the provision of a new end-to-end case management and workflow system. This system, MSRS (Medical Services Referral System), will ultimately replace the existing legacy SMART case tracking system. 
+      - It will also extend beyond the boundaries of the Medical Services elements of the business process, to cover creation of referrals within DWP, and direct access to referral outputs by DWP.. 
+      - Technology Used - Languages - Java 1.5.Front End Technologies - Struts, EJB, JDBCMiddle Ware Technologies- J2ee-EJBApp Server- WebLogic 9.2Database- Oracle 8iTools- Edit Plus, Ultra Edit, TOAD, Share Point Portal, Eclipse, BEA Web logic Workshop 8.1.OS- Windows NT
+    image: ""
+  - title: "CRM-CFS – Customer Relation Mgt- Customer Facing Problem)" 
+    description: 
+      - CRM-CFS – Customer Relation Mgt- Customer Facing Problem) project involves Customer Relation Activity and It’s facing Problem. Front End is JSP and JAVA swing and Middle Ware is EJB. 
+      - "Technology Used - Languages- Java 1.3,Front End Technologies- JAVA SWING, JDBC, Java Beans, JSP, JPF (Java Page Flow),Middle Ware Technologies- J2ee-EJB,Clarify, App Server- WebLogic 8,Database- Oracle 8i,Tools- Ultra Edit, TOAD, Eclipse and OS- WindowsNT"
+    image: ""
+  - title: "MF-NEBU(Master Files – Northern Europe Business Unit) " 
+    description: 
+      - MF-NEBU (Master Files - Northern Europe Business Unit) project involves integrating the various line of sales and supplies of Target Corporation.
+      - The goal is to unify Integrate these channels such that any order from any sales channel can be fulfilled from any fulfillment channel, so as to increase the sales. It specially deal with the direct sale business.
+      - "Technology Used - Languages- Java 1.3,Front End Technologies- JAVA SWING, JDBC, Java Beans, JSP, JPF (Java Page Flow),Middle Ware Technologies- J2ee-EJB,Clarify, App Server- WebLogic 8,Database- Oracle 8i,Tools- Ultra Edit, TOAD, Eclipse and OS- WindowsNT"
+    image: ""  

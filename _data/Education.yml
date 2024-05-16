@@ -1,0 +1,18 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: D.D.I.T Dharam Singh Desai Institute of Technology – Nadiad, Master of Computer Applications, Computer Science
+    description:
+      - Software development programming
+      - Software System design.
+    date: March-2001 – March-2004
+  - title: C.I.P.E.T Central Institute of Plastic Engineering - Ahmedabad,Post Graduate Diploma, Plastic Processing Technology
+    description:
+      - Plastic processing technologies
+      - Plastic Testing process.
+    grade: All India Rank 3rd. State Ranks 2nd 
+    date: Mar. 1998 - Feb. 1999
+  - title: C.U.Shah Ahmedabad,Bachelor of Science Chemistry
+    grade: 64%
+    date: March. 1995 - March. 1998
