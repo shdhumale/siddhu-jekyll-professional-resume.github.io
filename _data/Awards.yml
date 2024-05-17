@@ -3,20 +3,20 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: THE GURU
-    description: Association for Natural Language Processing
+    description: Won GURU award for Project execution and assistance.
     date:  2019
   - title: EMPLOEE OF THE QUARTER
-    description: 3rd place in Gogle CodeJam
+    description: Won Employee of the quarter award
     date:  2018
   - title: START AWARD
-    description: won the best Inspirational Youth Awards
+    description: Selected as Start in the team.
     date: 2016
   - title: EXPERT AWARD
-    description: won the best Inspirational Youth Awards
+    description: won expert award for intiation and exectutin Expert Group.
     date:  2015
   - title: BEST EMPLOYEE
-    description: won the best Inspirational Youth Awards
+    description: won best employee of the Team.
     date:  2010
   - title: Best Contributor for Reliance Project
-    description: won the best Inspirational Youth Awards
+    description: won the best contribution in project.
     date:  2008 
